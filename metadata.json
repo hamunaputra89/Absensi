@@ -1,0 +1,11 @@
+{
+  "name": "AbsensiKu - Presensi Biometrik & Kamera",
+  "description": "Aplikasi absensi karyawan modern real-time dengan kamera selfie & biometrik fingerprint, tersinkronisasi otomatis ke Google Sheets.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
